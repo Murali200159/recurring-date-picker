@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Recurring Date Picker
 A reusable recurring date picker component built with Next.js, Tailwind CSS, Zustand, and TypeScript, inspired by the TickTick app.
 Features
@@ -43,3 +44,7 @@ Loom Video
 Record a 5–10 minute video explaining the functionality and code.
 Demonstrate recurrence options, custom patterns, date range selection, and preview.
 Walk through the component structure, state management, and tests.
+=======
+# recurring-date-picker
+A reusable recurring date picker component built with Next.js and Tailwind CSS.
+>>>>>>> 66b6aa085e504126f41a5394447e3e813ebb0b0b
